@@ -1,5 +1,5 @@
 # healthcheck-fetch
-A take-home project requested of me applying for fetch.com. I have two versions available here, but either healthchecker.py or healthchecker-cleaned.py can be used.
+A take-home project requested of me applying for Fetch. I have two versions available here, but either healthchecker.py or healthchecker-cleaned.py can be used.
 
 ## Table of Contents
 
